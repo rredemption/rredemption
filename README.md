@@ -43,18 +43,18 @@
 &nbsp;
 <span style="color:#FDD3A1"><i>Flexible to most ships unless problematic ones</i></span>
 &nbsp;
+&nbsp;!! 
+&nbsp;◠◠
 <img src="https://files.catbox.moe/v85tij.png"
      width="42"
      height="42"
      style="vertical-align: middle;">
-&nbsp;!!
-&nbsp;◠◠
 
-<br><br>
+<br>
 
 <span style="color:#FF3956">✧&nbsp;.&nbsp;𓋰&nbsp;.</span>
 &nbsp;
-<span style="color:#FDD3A1">Bi&nbsp;.&nbsp;</span>
+<span style="color:#FDD3A1">Bisexual&nbsp;.&nbsp;</span>
 <b><span style="color:#FF3956">Chronic</span></b>
 &nbsp;
 <span style="color:#FDD3A1">insomniac&nbsp;୨&nbsp;୧</span>
@@ -64,7 +64,7 @@
      height="40"
      style="vertical-align: middle;">
 
-<br><br>
+<br>
 
 <span style="color:#FDD3A1">ᵔ&nbsp;graph by</span>
 &nbsp;
