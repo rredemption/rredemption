@@ -50,7 +50,7 @@
      height="42"
      style="vertical-align: middle;">
 
-<br><br>
+<br><b>
 
 <span style="color:#FF3956">✧&nbsp;.&nbsp;𓋰&nbsp;.</span>
 &nbsp;
@@ -64,7 +64,7 @@
      height="40"
      style="vertical-align: middle;">
 
-<br>
+<br><b>
 
 <span style="color:#FDD3A1">ᵔ&nbsp;graph by</span>
 &nbsp;
