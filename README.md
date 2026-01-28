@@ -66,11 +66,8 @@
 
 <br><b>
 
-<span style="color:#FDD3A1">ᵔ&nbsp;graph by</span>
-&nbsp;
-<b><span style="color:#FF3956">nerdconsumer2!!</span></b>
-&nbsp;
-<span style="color:#FF3956">⌓⌓</span>
+<img src="https://files.catbox.moe/rdbxjs.gif">
+
 
 <br><br>
 
