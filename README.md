@@ -56,9 +56,12 @@
 <span style="color:#FF3956">✧&nbsp;.&nbsp;𓋰&nbsp;.</span>
 &nbsp;
 <span style="color:#FDD3A1">Bisexual&nbsp;.&nbsp;</span>
-<b><span style="color:#FF3956">Chronic</span></b>
+<b>
+<span style="color:#FF3956">Midly</span>
+</b>
 &nbsp;
-<span style="color:#FDD3A1">insomniac&nbsp;୨&nbsp;୧</span>
+<span style="color:#FF3956">active</span>
+</b>
 &nbsp;
 <img src="https://files.catbox.moe/8caaql.png"
      width="40"
