@@ -33,7 +33,7 @@
 <br><br>
 
 <!-- CENTER DECORATIVE IMAGE (BIGGER) -->
-<img src="https://files.catbox.moe/7iwszm.png" width="590">
+<img src="https://files.catbox.moe/38t2p6.png" width="590">
 
 <br><br>
 
