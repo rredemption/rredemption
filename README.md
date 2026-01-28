@@ -33,7 +33,7 @@
 <br><br>
 
 <!-- CENTER DECORATIVE IMAGE (BIGGER) -->
-<img src="https://files.catbox.moe/5qmlgx.png" width="590">
+<img src="https://img.sanishtech.com/u/541ff11d33f8c839cd5dc00884742bb7.png" width="590">
 
 <br><br>
 
