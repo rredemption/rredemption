@@ -24,11 +24,8 @@
 
 <span style="color:#FF3956">.ᐟᅠ︶</span>
 &nbsp;
-<span style="color:#FDD3A1">Introvert&nbsp;^ᅠ,,</span>
-
-<br>
-
-<b><span style="color:#FF3956">He</span></b>
+<span style="color:#FDD3A1">Introvert&nbsp;^ᅠ,,
+<span style="color:#FF3956">He</span></b>
 &nbsp;
 <span style="color:#FF3956">₊ Them</span>
 &nbsp;
