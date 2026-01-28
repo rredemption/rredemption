@@ -4,6 +4,10 @@
 
 <br><br>
 
+<img src="https://files.catbox.moe/rdbxjs.gif">
+
+<br><br>
+
 <span style="color:#FF3956">∔†∔</span>
 &nbsp;◜&nbsp;
 <span style="color:#FDD3A1">!Vin&nbsp;!~ᵒʳ~!</span>
@@ -33,7 +37,7 @@
 <br><br>
 
 <!-- CENTER DECORATIVE IMAGE (BIGGER) -->
-<img src="https://img.sanishtech.com/u/541ff11d33f8c839cd5dc00884742bb7.png" width="590">
+<img src="https://img.sanishtech.com/u/7bf30ea7ffbab92a83920f493ad06959.png" width="590">
 
 <br><br>
 
