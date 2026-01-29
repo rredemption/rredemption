@@ -34,7 +34,7 @@
 <br><br>
 
 <!-- CENTER DECORATIVE IMAGE (BIGGER) -->
-<img src="https://img.sanishtech.com/u/ccb109a104bcc88c0a4176933a56a735.png" width="590">
+<img src="https://img.sanishtech.com/u/2e5ccc88f5dacacbdf865e2861e0fed0.png" width="590">
 
 <br><br>
 
